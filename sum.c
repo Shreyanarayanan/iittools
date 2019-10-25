@@ -10,7 +10,7 @@ int main()
     scanf("%d", &n);
     sum = getSum(n);
     printf("\n\nThe sum of first %d numbers is %d\n", n, sum);
-    printf("\n\n\t\t\tCoding is Fun !\n\n\n");
+    //printf("\n\n\t\t\tCoding is Fun !\n\n\n");
     return 0;
 }
 
